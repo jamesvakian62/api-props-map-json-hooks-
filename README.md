@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+api, props, map, json, hooks, 
+
+![Screen Shot 2021-12-16 at 9 17 04 AM](https://user-images.githubusercontent.com/95377031/146418290-52a2cf31-256f-4fda-af85-b34074be081a.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
